@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandra Pc</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
-<img align="center" alt="Coding" height="400" width="900" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="center" alt="Coding"  width="900" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandrapc1&label=Profile%20views&color=0e75b6&style=flat" alt="sandrapc1" /> </p>
 
