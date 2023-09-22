@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandra Pc</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif&tbnid=M2smYocOcR_iGM&vet=10CCMQMyh0ahcKEwjI78b99b2BAxUAAAAAHQAAAAAQAw..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=1900&h=684&q=animated%20%20%20coding%20%20%20gif&hl=en&ved=0CCMQMyh0ahcKEwjI78b99b2BAxUAAAAAHQAAAAAQAw">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif&tbnid=M2smYocOcR_iGM&vet=10CCMQMyh0ahcKEwjI78b99b2BAxUAAAAAHQAAAAAQAw..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=1900&h=684&q=animated%20%20%20coding%20%20%20gif&hl=en&ved=0CCMQMyh0ahcKEwjI78b99b2BAxUAAAAAHQAAAAAQAw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandrapc1&label=Profile%20views&color=0e75b6&style=flat" alt="sandrapc1" /> </p>
 
