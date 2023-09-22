@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandra Pc</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
-<img align="center" alt="Coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center" alt="Coding" width="900" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandrapc1&label=Profile%20views&color=0e75b6&style=flat" alt="sandrapc1" /> </p>
 
